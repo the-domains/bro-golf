@@ -1,6 +1,6 @@
 name: Bro Golf
 favicon: null
-layout_spectrum: 1
+layout_spectrum: 0.48878
 typography_spectrum: 0.25179
 cta:
   domain: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#17BEBB'
-    - '#2E282A'
-    - '#CD5334'
-    - '#EDB88B'
-    - '#FAD8D6'
-  brandStrength: 0
-  lightness: 0
-  saturation: 0
-  rhythmicContrast: 0
+    - '#81b1f9'
+    - '#1f3727'
+    - '#010101'
+    - '#a0ba3b'
+    - '#798f2d'
+  brandStrength: 0.6875
+  lightness: 0.5
+  saturation: 0.5
+  rhythmicContrast: 0.75
 purpose: []
